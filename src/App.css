@@ -1,0 +1,16 @@
+.star {
+    fill: #dddddd;
+    margin: 1rem;
+}
+
+.star:hover {
+    cursor: pointer;
+}
+
+.star-filled {
+    fill: #eadb51;
+}
+
+.rating-container {
+    display: flex;
+}
